@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Multi-Agent E-Commerce Assistant</title>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <div id="nav-container"></div>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-badge">⚡ Powered by Multi-Agent AI</div>
+    <h1>Find the right product, <span>faster.</span></h1>
+    <p>Your intelligent shopping companion powered by multi-agent AI — requirements, search, reviews, comparison, and recommendations all in one flow.</p>
+
+    <div class="hero-search">
+      <input
+        id="heroQuery"
+        class="form-input"
+        type="text"
+        placeholder="I need a smartphone under ₹50,000 with good battery life"
+        onkeydown="if(event.key==='Enter') startShopping()"
+      />
+      <button class="btn btn-primary btn-lg" onclick="startShopping()">
+        🔍 Start Shopping
+      </button>
+    </div>
+
+    <!-- Category Cards -->
+    <div class="cat-grid">
+      <div class="cat-card" onclick="setCategory('Smartphones')">
+        <div class="cat-icon">📱</div>
+        <div class="cat-name">Smartphones</div>
+      </div>
+      <div class="cat-card" onclick="setCategory('Laptops')">
+        <div class="cat-icon">💻</div>
+        <div class="cat-name">Laptops</div>
+      </div>
+      <div class="cat-card" onclick="setCategory('Headphones')">
+        <div class="cat-icon">🎧</div>
+        <div class="cat-name">Headphones</div>
+      </div>
+      <div class="cat-card" onclick="setCategory('Smartwatches')">
+        <div class="cat-icon">⌚</div>
+        <div class="cat-name">Smartwatches</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features -->
+  <div class="page" style="padding-top:0">
+    <div class="section-title" style="text-align:center;margin-bottom:24px">Why use Multi-Agent AI?</div>
+    <div class="feature-grid" style="margin-bottom:60px">
+      <div class="feature-card">
+        <div class="feature-icon">🤖</div>
+        <div class="feature-title">Multi-Agent AI</div>
+        <div class="feature-desc">Five specialized AI agents work in sequence — each expert in its own task.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">⭐</div>
+        <div class="feature-title">Review Intelligence</div>
+        <div class="feature-desc">Deep customer review analysis — sentiment, themes, strengths, and concerns.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">⚖️</div>
+        <div class="feature-title">Smart Comparison</div>
+        <div class="feature-desc">Side-by-side specification and price comparison with budget tracking.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🎯</div>
+        <div class="feature-title">Personalized Picks</div>
+        <div class="feature-desc">Ranked recommendations tailored exactly to your stated requirements.</div>
+      </div>
+    </div>
+
+    <!-- How it Works -->
+    <div class="card" style="text-align:center;padding:40px">
+      <div class="section-title">How it works</div>
+      <div class="steps-how" style="margin-top:24px;gap:12px">
+        <div class="step-how"><div class="step-num">1</div><div class="step-label">Tell us what you need</div></div>
+        <div class="step-how"><div class="step-num">2</div><div class="step-label">We extract your requirements</div></div>
+        <div class="step-how"><div class="step-num">3</div><div class="step-label">Search relevant products</div></div>
+        <div class="step-how"><div class="step-num">4</div><div class="step-label">Analyse customer reviews</div></div>
+        <div class="step-how"><div class="step-num">5</div><div class="step-label">Compare price &amp; specs</div></div>
+        <div class="step-how"><div class="step-num">6</div><div class="step-label">Recommend the best</div></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/js/app.js"></script>
+  <script>
+    function startShopping() {
+      const q = document.getElementById('heroQuery').value.trim();
+      if (!q) { toast('Please enter what you are looking for.', 'warning'); return; }
+      Session.clearAll();
+      Session.set(Keys.REQUEST, q);
+      window.location.href = '/pages/requirements.html';
+    }
+
+    function setCategory(cat) {
+      const input = document.getElementById('heroQuery');
+      const placeholders = {
+        Smartphones: 'I need a smartphone under ₹50,000 with good battery life',
+        Laptops:     'I need a laptop under ₹70,000 for programming with 16GB RAM',
+        Headphones:  'I want wireless headphones with noise cancellation under ₹20,000',
+        Smartwatches:'I want a smartwatch with GPS and fitness tracking under ₹25,000',
+      };
+      input.placeholder = placeholders[cat] || '';
+      input.value = '';
+      input.focus();
+    }
+  </script>
+</body>
+</html>

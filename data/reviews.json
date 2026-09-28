@@ -1,0 +1,870 @@
+[
+    {
+        "review_id": "R5001",
+        "product_id": "P1030",
+        "rating": 3,
+        "review_text": "Battery life is just average, nothing special.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5002",
+        "product_id": "P1009",
+        "rating": 4,
+        "review_text": "The battery life is incredible. I can go days without charging.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5003",
+        "product_id": "P1009",
+        "rating": 5,
+        "review_text": "Screen is bright and clear. Performance is snappy.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5004",
+        "product_id": "P1007",
+        "rating": 3,
+        "review_text": "Good performance, but the software has some bugs.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5005",
+        "product_id": "P1017",
+        "rating": 4,
+        "review_text": "Absolutely love it! Best purchase this year.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5006",
+        "product_id": "P1021",
+        "rating": 4,
+        "review_text": "Great value for the price. Highly recommend it.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5007",
+        "product_id": "P1001",
+        "rating": 5,
+        "review_text": "Build quality is top-notch. Feels very premium.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5008",
+        "product_id": "P1006",
+        "rating": 3,
+        "review_text": "Okay product. The screen could be brighter.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5009",
+        "product_id": "P1023",
+        "rating": 4,
+        "review_text": "Absolutely love it! Best purchase this year.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5010",
+        "product_id": "P1003",
+        "rating": 1,
+        "review_text": "Horrible customer service when I tried to return it.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5011",
+        "product_id": "P1018",
+        "rating": 4,
+        "review_text": "The camera takes stunning photos, especially in low light.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5012",
+        "product_id": "P1014",
+        "rating": 5,
+        "review_text": "Great value for the price. Highly recommend it.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5013",
+        "product_id": "P1029",
+        "rating": 2,
+        "review_text": "Terrible battery life. Dies halfway through the day.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5014",
+        "product_id": "P1007",
+        "rating": 3,
+        "review_text": "Sound quality is fine, but the fit isn't great for me.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5015",
+        "product_id": "P1004",
+        "rating": 4,
+        "review_text": "Noise cancellation is amazing, blocks out everything.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5016",
+        "product_id": "P1030",
+        "rating": 1,
+        "review_text": "Build feels cheap and plasticky. Not worth the price.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5017",
+        "product_id": "P1029",
+        "rating": 5,
+        "review_text": "Build quality is top-notch. Feels very premium.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5018",
+        "product_id": "P1026",
+        "rating": 1,
+        "review_text": "Horrible customer service when I tried to return it.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5019",
+        "product_id": "P1009",
+        "rating": 5,
+        "review_text": "The battery life is incredible. I can go days without charging.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5020",
+        "product_id": "P1028",
+        "rating": 4,
+        "review_text": "Very comfortable to wear for long periods.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5021",
+        "product_id": "P1007",
+        "rating": 2,
+        "review_text": "Screen broke after just a week of normal use.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5022",
+        "product_id": "P1010",
+        "rating": 1,
+        "review_text": "Build feels cheap and plasticky. Not worth the price.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5023",
+        "product_id": "P1001",
+        "rating": 3,
+        "review_text": "It gets the job done, but I wish the build was better.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5024",
+        "product_id": "P1011",
+        "rating": 5,
+        "review_text": "The battery life is incredible. I can go days without charging.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5025",
+        "product_id": "P1012",
+        "rating": 3,
+        "review_text": "It gets the job done, but I wish the build was better.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5026",
+        "product_id": "P1022",
+        "rating": 2,
+        "review_text": "Noise cancellation barely works.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5027",
+        "product_id": "P1001",
+        "rating": 4,
+        "review_text": "Great value for the price. Highly recommend it.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5028",
+        "product_id": "P1019",
+        "rating": 1,
+        "review_text": "Software is laggy and crashes often.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5029",
+        "product_id": "P1004",
+        "rating": 5,
+        "review_text": "The camera takes stunning photos, especially in low light.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5030",
+        "product_id": "P1014",
+        "rating": 3,
+        "review_text": "Okay product. The screen could be brighter.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5031",
+        "product_id": "P1004",
+        "rating": 5,
+        "review_text": "Screen is bright and clear. Performance is snappy.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5032",
+        "product_id": "P1002",
+        "rating": 3,
+        "review_text": "It's decent, but a bit overpriced for what you get.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5033",
+        "product_id": "P1017",
+        "rating": 1,
+        "review_text": "Noise cancellation barely works.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5034",
+        "product_id": "P1012",
+        "rating": 5,
+        "review_text": "The camera takes stunning photos, especially in low light.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5035",
+        "product_id": "P1022",
+        "rating": 2,
+        "review_text": "Horrible customer service when I tried to return it.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5036",
+        "product_id": "P1017",
+        "rating": 5,
+        "review_text": "Noise cancellation is amazing, blocks out everything.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5037",
+        "product_id": "P1013",
+        "rating": 3,
+        "review_text": "Okay product. The screen could be brighter.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5038",
+        "product_id": "P1005",
+        "rating": 4,
+        "review_text": "Noise cancellation is amazing, blocks out everything.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5039",
+        "product_id": "P1020",
+        "rating": 4,
+        "review_text": "Noise cancellation is amazing, blocks out everything.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5040",
+        "product_id": "P1010",
+        "rating": 5,
+        "review_text": "Noise cancellation is amazing, blocks out everything.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5041",
+        "product_id": "P1015",
+        "rating": 5,
+        "review_text": "Screen is bright and clear. Performance is snappy.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5042",
+        "product_id": "P1026",
+        "rating": 1,
+        "review_text": "Horrible customer service when I tried to return it.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5043",
+        "product_id": "P1022",
+        "rating": 4,
+        "review_text": "The camera takes stunning photos, especially in low light.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5044",
+        "product_id": "P1027",
+        "rating": 2,
+        "review_text": "Build feels cheap and plasticky. Not worth the price.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5045",
+        "product_id": "P1008",
+        "rating": 1,
+        "review_text": "Build feels cheap and plasticky. Not worth the price.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5046",
+        "product_id": "P1002",
+        "rating": 4,
+        "review_text": "Very comfortable to wear for long periods.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5047",
+        "product_id": "P1015",
+        "rating": 5,
+        "review_text": "Screen is bright and clear. Performance is snappy.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5048",
+        "product_id": "P1016",
+        "rating": 4,
+        "review_text": "Build quality is top-notch. Feels very premium.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5049",
+        "product_id": "P1029",
+        "rating": 3,
+        "review_text": "It's decent, but a bit overpriced for what you get.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5050",
+        "product_id": "P1025",
+        "rating": 5,
+        "review_text": "Build quality is top-notch. Feels very premium.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5051",
+        "product_id": "P1002",
+        "rating": 5,
+        "review_text": "The battery life is incredible. I can go days without charging.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5052",
+        "product_id": "P1005",
+        "rating": 2,
+        "review_text": "Horrible customer service when I tried to return it.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5053",
+        "product_id": "P1025",
+        "rating": 2,
+        "review_text": "Noise cancellation barely works.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5054",
+        "product_id": "P1027",
+        "rating": 1,
+        "review_text": "Screen broke after just a week of normal use.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5055",
+        "product_id": "P1024",
+        "rating": 2,
+        "review_text": "Screen broke after just a week of normal use.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5056",
+        "product_id": "P1025",
+        "rating": 5,
+        "review_text": "Great value for the price. Highly recommend it.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5057",
+        "product_id": "P1021",
+        "rating": 4,
+        "review_text": "Very comfortable to wear for long periods.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5058",
+        "product_id": "P1023",
+        "rating": 5,
+        "review_text": "Great value for the price. Highly recommend it.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5059",
+        "product_id": "P1011",
+        "rating": 1,
+        "review_text": "Terrible battery life. Dies halfway through the day.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5060",
+        "product_id": "P1005",
+        "rating": 4,
+        "review_text": "Build quality is top-notch. Feels very premium.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5061",
+        "product_id": "P1003",
+        "rating": 5,
+        "review_text": "The camera takes stunning photos, especially in low light.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5062",
+        "product_id": "P1014",
+        "rating": 5,
+        "review_text": "Noise cancellation is amazing, blocks out everything.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5063",
+        "product_id": "P1029",
+        "rating": 3,
+        "review_text": "Sound quality is fine, but the fit isn't great for me.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5064",
+        "product_id": "P1001",
+        "rating": 2,
+        "review_text": "Noise cancellation barely works.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5065",
+        "product_id": "P1016",
+        "rating": 5,
+        "review_text": "The camera takes stunning photos, especially in low light.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5066",
+        "product_id": "P1025",
+        "rating": 4,
+        "review_text": "Noise cancellation is amazing, blocks out everything.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5067",
+        "product_id": "P1016",
+        "rating": 5,
+        "review_text": "Noise cancellation is amazing, blocks out everything.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5068",
+        "product_id": "P1001",
+        "rating": 4,
+        "review_text": "Noise cancellation is amazing, blocks out everything.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5069",
+        "product_id": "P1027",
+        "rating": 4,
+        "review_text": "Build quality is top-notch. Feels very premium.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5070",
+        "product_id": "P1030",
+        "rating": 4,
+        "review_text": "Absolutely love it! Best purchase this year.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5071",
+        "product_id": "P1021",
+        "rating": 4,
+        "review_text": "Very comfortable to wear for long periods.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5072",
+        "product_id": "P1002",
+        "rating": 4,
+        "review_text": "The camera takes stunning photos, especially in low light.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5073",
+        "product_id": "P1015",
+        "rating": 5,
+        "review_text": "Noise cancellation is amazing, blocks out everything.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5074",
+        "product_id": "P1025",
+        "rating": 2,
+        "review_text": "Screen broke after just a week of normal use.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5075",
+        "product_id": "P1027",
+        "rating": 4,
+        "review_text": "Absolutely love it! Best purchase this year.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5076",
+        "product_id": "P1012",
+        "rating": 4,
+        "review_text": "The battery life is incredible. I can go days without charging.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5077",
+        "product_id": "P1025",
+        "rating": 4,
+        "review_text": "Screen is bright and clear. Performance is snappy.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5078",
+        "product_id": "P1027",
+        "rating": 4,
+        "review_text": "Build quality is top-notch. Feels very premium.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5079",
+        "product_id": "P1005",
+        "rating": 4,
+        "review_text": "The battery life is incredible. I can go days without charging.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5080",
+        "product_id": "P1015",
+        "rating": 3,
+        "review_text": "Good performance, but the software has some bugs.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5081",
+        "product_id": "P1006",
+        "rating": 3,
+        "review_text": "Sound quality is fine, but the fit isn't great for me.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5082",
+        "product_id": "P1023",
+        "rating": 5,
+        "review_text": "Build quality is top-notch. Feels very premium.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5083",
+        "product_id": "P1004",
+        "rating": 5,
+        "review_text": "Great value for the price. Highly recommend it.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5084",
+        "product_id": "P1013",
+        "rating": 1,
+        "review_text": "Build feels cheap and plasticky. Not worth the price.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5085",
+        "product_id": "P1019",
+        "rating": 3,
+        "review_text": "Sound quality is fine, but the fit isn't great for me.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5086",
+        "product_id": "P1008",
+        "rating": 4,
+        "review_text": "Great value for the price. Highly recommend it.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5087",
+        "product_id": "P1026",
+        "rating": 2,
+        "review_text": "Terrible battery life. Dies halfway through the day.",
+        "sentiment_hint": "negative"
+    },
+    {
+        "review_id": "R5088",
+        "product_id": "P1018",
+        "rating": 4,
+        "review_text": "The camera takes stunning photos, especially in low light.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R5089",
+        "product_id": "P1017",
+        "rating": 3,
+        "review_text": "It's decent, but a bit overpriced for what you get.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R5090",
+        "product_id": "P1028",
+        "rating": 4,
+        "review_text": "Very comfortable to wear for long periods.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6001",
+        "product_id": "P1031",
+        "rating": 5,
+        "review_text": "Great laptop for the price. The display is bright and the performance is snappy for everyday tasks. Battery lasts all day easily.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6002",
+        "product_id": "P1031",
+        "rating": 4,
+        "review_text": "Good build quality and fast boot times. The 16GB RAM handles multitasking well. Keyboard is comfortable to type on.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6003",
+        "product_id": "P1031",
+        "rating": 4,
+        "review_text": "Solid everyday laptop. FHD display is sharp. Gets a little warm under load but nothing concerning.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6004",
+        "product_id": "P1032",
+        "rating": 5,
+        "review_text": "The OLED screen is stunning. Colors are vivid and deep. Battery life is honestly amazing at 17 hours real-world usage.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6005",
+        "product_id": "P1032",
+        "rating": 5,
+        "review_text": "Best 2-in-1 laptop I have owned. Hinges are solid, display is gorgeous. Touch response is excellent. Well worth the price.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6006",
+        "product_id": "P1032",
+        "rating": 4,
+        "review_text": "Premium build and excellent display. Slightly heavy for a 14-inch but the battery life more than compensates.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6007",
+        "product_id": "P1033",
+        "rating": 4,
+        "review_text": "Excellent gaming performance. Runs AAA titles at high settings without throttling. Display refresh rate makes games look smooth.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6008",
+        "product_id": "P1033",
+        "rating": 4,
+        "review_text": "RTX 3070 handles everything I throw at it. Fans can be loud under load but performance is great. Good thermal management.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6009",
+        "product_id": "P1033",
+        "rating": 3,
+        "review_text": "Great gaming performance but battery drains very fast when gaming. Build quality is decent though the lid flexes a bit.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R6010",
+        "product_id": "P1034",
+        "rating": 5,
+        "review_text": "Exceptional business laptop. 32GB RAM handles everything. Security features work flawlessly. Battery lasts a full working day.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6011",
+        "product_id": "P1034",
+        "rating": 4,
+        "review_text": "Very well built and lightweight. Fast processor and the Sure View privacy screen is great for travelling. Highly recommended.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6012",
+        "product_id": "P1035",
+        "rating": 4,
+        "review_text": "Great budget laptop. Performance is good for office work and web browsing. Screen could be brighter but is acceptable.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6013",
+        "product_id": "P1035",
+        "rating": 4,
+        "review_text": "Sturdy build for the price. Runs cool and quiet. Battery lasts around 9 hours which is more than enough for a full day.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6014",
+        "product_id": "P1035",
+        "rating": 3,
+        "review_text": "Good value for money but the display quality is average. Plastic build feels a little cheap. Performance is adequate.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R6015",
+        "product_id": "P1036",
+        "rating": 5,
+        "review_text": "The OLED display is breathtakingly beautiful. 32GB RAM handles video editing and design work with ease. Best laptop I have ever used.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6016",
+        "product_id": "P1036",
+        "rating": 5,
+        "review_text": "Stunning build quality and display. Fast performance for programming and creative work. Battery is solid at 12 hours. Worth every rupee.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6017",
+        "product_id": "P1036",
+        "rating": 4,
+        "review_text": "Excellent display and performance. Runs a bit warm under heavy load but the performance never throttles. Keyboard is comfortable.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6018",
+        "product_id": "P1037",
+        "rating": 4,
+        "review_text": "Solid gaming laptop at a great price. RTX 3060 handles modern games at high settings. Cooling system works really well.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6019",
+        "product_id": "P1037",
+        "rating": 4,
+        "review_text": "165Hz display makes gaming very smooth. Build quality is sturdy. A bit heavy to carry around but great at a desk.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6020",
+        "product_id": "P1037",
+        "rating": 3,
+        "review_text": "Good gaming performance but display is only 512GB storage which fills up fast. Battery life during gaming is only 4-5 hours.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R6021",
+        "product_id": "P1038",
+        "rating": 5,
+        "review_text": "Rock-solid business laptop. Enterprise security features are great. Fast processor and 32GB RAM makes work effortless.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6022",
+        "product_id": "P1038",
+        "rating": 4,
+        "review_text": "Reliable and durable. Great keyboard for long typing sessions. Battery lasts a full day in the office easily.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6023",
+        "product_id": "P1039",
+        "rating": 4,
+        "review_text": "Lightweight and portable. Battery life is excellent at 12 hours. Display is sharp and vivid. Great all-rounder for students.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6024",
+        "product_id": "P1039",
+        "rating": 5,
+        "review_text": "Excellent battery life and snappy performance. Very light to carry. IPS display has great viewing angles. Highly recommend.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6025",
+        "product_id": "P1039",
+        "rating": 4,
+        "review_text": "Good build quality and performance for everyday tasks. AMD chip runs cool and battery lasts all day. Great value.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6026",
+        "product_id": "P1040",
+        "rating": 5,
+        "review_text": "The best business laptop money can buy. Incredibly light, OLED display is gorgeous, and battery genuinely lasts 15 hours. Perfect.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6027",
+        "product_id": "P1040",
+        "rating": 5,
+        "review_text": "ThinkPad quality is unmatched. The keyboard is the best on any laptop. 32GB RAM and 1TB SSD handle everything effortlessly.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6028",
+        "product_id": "P1040",
+        "rating": 5,
+        "review_text": "Exceptional build quality, feather-light, stunning display. Battery life is real-world amazing. Worth every penny for professionals.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6029",
+        "product_id": "P1041",
+        "rating": 5,
+        "review_text": "RTX 4060 is a beast. QHD 165Hz display makes everything look incredible. Thermal performance is excellent even under sustained gaming load.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6030",
+        "product_id": "P1041",
+        "rating": 4,
+        "review_text": "Great gaming performance and the display is stunning. Gets slightly warm but fans manage it well. Keyboard backlight is cool.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6031",
+        "product_id": "P1041",
+        "rating": 5,
+        "review_text": "Best gaming laptop in this price range. Ryzen 7 + RTX 4060 is a killer combo. 1TB storage is plenty for games.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6032",
+        "product_id": "P1042",
+        "rating": 4,
+        "review_text": "Great value for students. Does everything you need for college work and light browsing. Clean and simple design.",
+        "sentiment_hint": "positive"
+    },
+    {
+        "review_id": "R6033",
+        "product_id": "P1042",
+        "rating": 3,
+        "review_text": "Decent budget laptop. 8GB RAM is a bit limited for multitasking. Storage is small but can use external drive. Screen is acceptable.",
+        "sentiment_hint": "neutral"
+    },
+    {
+        "review_id": "R6034",
+        "product_id": "P1042",
+        "rating": 4,
+        "review_text": "Good basic laptop for light tasks. Boot times are fast with SSD. Build is sturdy enough. Battery lasts 8 hours which is fine.",
+        "sentiment_hint": "positive"
+    }
+]

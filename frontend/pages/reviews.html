@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Reviews — Multi-Agent E-Commerce</title>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <div id="nav-container"></div>
+  <div class="page-sm">
+    <div class="section-header">
+      <h1>⭐ Customer Review Intelligence</h1>
+      <p>Select a product and our Review Agent will analyse all customer feedback.</p>
+    </div>
+
+    <!-- Product Selector -->
+    <div class="card" style="margin-bottom:24px">
+      <div class="form-group">
+        <label class="form-label">Select a Product</label>
+        <select id="productSelect" class="product-selector" onchange="onProductSelected()">
+          <option value="">— Choose a product —</option>
+        </select>
+      </div>
+      <div style="margin-top:14px">
+        <button id="analyzeBtn" class="btn btn-primary" onclick="analyzeReviews()" disabled>
+          ⭐ Analyse Reviews
+        </button>
+      </div>
+    </div>
+
+    <!-- Review Result -->
+    <div id="review-area"></div>
+
+    <!-- Page Nav -->
+    <div class="page-nav">
+      <button class="btn btn-ghost" onclick="window.location.href='/pages/products.html'">← Back to Products</button>
+      <button class="btn btn-primary" onclick="window.location.href='/pages/compare.html'">
+        Continue to Compare →
+      </button>
+    </div>
+  </div>
+
+  <script src="/js/app.js"></script>
+  <script src="/js/reviews.js"></script>
+</body>
+</html>

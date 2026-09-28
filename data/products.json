@@ -1,0 +1,800 @@
+[
+    {
+        "product_id": "P1001",
+        "name": "TechBook Pro 5",
+        "brand": "TechBook",
+        "category": "Laptops",
+        "price": 527.54,
+        "currency": "USD",
+        "rating": 3.3,
+        "review_count": 62,
+        "description": "The TechBook Pro 5 is a top-tier laptop from TechBook.",
+        "specifications": {
+            "processor": "Ryzen 7",
+            "ram": "32GB",
+            "storage": "1TB SSD",
+            "display": "13-inch FHD",
+            "battery": "15 hours",
+            "graphics": "RTX 4070"
+        }
+    },
+    {
+        "product_id": "P1002",
+        "name": "TechBook Pro 2",
+        "brand": "TechBook",
+        "category": "Laptops",
+        "price": 476.34,
+        "currency": "USD",
+        "rating": 4.0,
+        "review_count": 23,
+        "description": "The TechBook Pro 2 is a top-tier laptop from TechBook.",
+        "specifications": {
+            "processor": "M2",
+            "ram": "8GB",
+            "storage": "1TB SSD",
+            "display": "14-inch QHD",
+            "battery": "15 hours",
+            "graphics": "RTX 4070"
+        }
+    },
+    {
+        "product_id": "P1003",
+        "name": "NovaCompute Z 5",
+        "brand": "NovaCompute",
+        "category": "Laptops",
+        "price": 1628.39,
+        "currency": "USD",
+        "rating": 3.0,
+        "review_count": 422,
+        "description": "The NovaCompute Z 5 is a top-tier laptop from NovaCompute.",
+        "specifications": {
+            "processor": "Core i7",
+            "ram": "32GB",
+            "storage": "512GB SSD",
+            "display": "15-inch 4K",
+            "battery": "12 hours",
+            "graphics": "GTX 1650"
+        }
+    },
+    {
+        "product_id": "P1004",
+        "name": "NovaCompute Air 2",
+        "brand": "NovaCompute",
+        "category": "Laptops",
+        "price": 230.85,
+        "currency": "USD",
+        "rating": 3.2,
+        "review_count": 443,
+        "description": "The NovaCompute Air 2 is a top-tier laptop from NovaCompute.",
+        "specifications": {
+            "processor": "Core i9",
+            "ram": "32GB",
+            "storage": "512GB SSD",
+            "display": "13-inch FHD",
+            "battery": "15 hours",
+            "graphics": "RTX 4070"
+        }
+    },
+    {
+        "product_id": "P1005",
+        "name": "TechBook X 2",
+        "brand": "TechBook",
+        "category": "Laptops",
+        "price": 1126.48,
+        "currency": "USD",
+        "rating": 4.6,
+        "review_count": 326,
+        "description": "The TechBook X 2 is a top-tier laptop from TechBook.",
+        "specifications": {
+            "processor": "Core i9",
+            "ram": "32GB",
+            "storage": "256GB SSD",
+            "display": "14-inch QHD",
+            "battery": "10 hours",
+            "graphics": "Integrated"
+        }
+    },
+    {
+        "product_id": "P1006",
+        "name": "NovaCompute Plus 2",
+        "brand": "NovaCompute",
+        "category": "Laptops",
+        "price": 1717.87,
+        "currency": "USD",
+        "rating": 4.6,
+        "review_count": 204,
+        "description": "The NovaCompute Plus 2 is a top-tier laptop from NovaCompute.",
+        "specifications": {
+            "processor": "Core i9",
+            "ram": "16GB",
+            "storage": "1TB SSD",
+            "display": "15-inch 4K",
+            "battery": "10 hours",
+            "graphics": "RTX 3060"
+        }
+    },
+    {
+        "product_id": "P1007",
+        "name": "Zenith Lite 5",
+        "brand": "Zenith",
+        "category": "Laptops",
+        "price": 1418.55,
+        "currency": "USD",
+        "rating": 4.3,
+        "review_count": 46,
+        "description": "The Zenith Lite 5 is a top-tier laptop from Zenith.",
+        "specifications": {
+            "processor": "M2",
+            "ram": "32GB",
+            "storage": "256GB SSD",
+            "display": "14-inch QHD",
+            "battery": "15 hours",
+            "graphics": "GTX 1650"
+        }
+    },
+    {
+        "product_id": "P1008",
+        "name": "NovaCompute Z 7",
+        "brand": "NovaCompute",
+        "category": "Laptops",
+        "price": 576.4,
+        "currency": "USD",
+        "rating": 4.8,
+        "review_count": 362,
+        "description": "The NovaCompute Z 7 is a top-tier laptop from NovaCompute.",
+        "specifications": {
+            "processor": "M2",
+            "ram": "8GB",
+            "storage": "1TB SSD",
+            "display": "15-inch 4K",
+            "battery": "10 hours",
+            "graphics": "GTX 1650"
+        }
+    },
+    {
+        "product_id": "P1009",
+        "name": "PhoneMax Air 7",
+        "brand": "PhoneMax",
+        "category": "Smartphones",
+        "price": 540.97,
+        "currency": "USD",
+        "rating": 3.4,
+        "review_count": 492,
+        "description": "The PhoneMax Air 7 is a top-tier smartphone from PhoneMax.",
+        "specifications": {
+            "processor": "Dimensity 9000",
+            "ram": "12GB",
+            "storage": "256GB",
+            "display": "6.1-inch OLED",
+            "battery": "5000mAh",
+            "camera": "Triple 50MP"
+        }
+    },
+    {
+        "product_id": "P1010",
+        "name": "Connecto Z 3",
+        "brand": "Connecto",
+        "category": "Smartphones",
+        "price": 538.39,
+        "currency": "USD",
+        "rating": 3.5,
+        "review_count": 297,
+        "description": "The Connecto Z 3 is a top-tier smartphone from Connecto.",
+        "specifications": {
+            "processor": "Dimensity 9000",
+            "ram": "8GB",
+            "storage": "512GB",
+            "display": "6.5-inch LCD",
+            "battery": "4500mAh",
+            "camera": "Quad 108MP"
+        }
+    },
+    {
+        "product_id": "P1011",
+        "name": "Connecto Air 4",
+        "brand": "Connecto",
+        "category": "Smartphones",
+        "price": 1197.59,
+        "currency": "USD",
+        "rating": 3.3,
+        "review_count": 262,
+        "description": "The Connecto Air 4 is a top-tier smartphone from Connecto.",
+        "specifications": {
+            "processor": "Snapdragon 8 Gen 1",
+            "ram": "6GB",
+            "storage": "128GB",
+            "display": "6.1-inch OLED",
+            "battery": "5000mAh",
+            "camera": "Dual 12MP"
+        }
+    },
+    {
+        "product_id": "P1012",
+        "name": "Connecto Ultra 7",
+        "brand": "Connecto",
+        "category": "Smartphones",
+        "price": 643.46,
+        "currency": "USD",
+        "rating": 4.9,
+        "review_count": 280,
+        "description": "The Connecto Ultra 7 is a top-tier smartphone from Connecto.",
+        "specifications": {
+            "processor": "A15 Bionic",
+            "ram": "12GB",
+            "storage": "128GB",
+            "display": "6.5-inch LCD",
+            "battery": "5000mAh",
+            "camera": "Dual 12MP"
+        }
+    },
+    {
+        "product_id": "P1013",
+        "name": "Pixelia Air 2",
+        "brand": "Pixelia",
+        "category": "Smartphones",
+        "price": 564.15,
+        "currency": "USD",
+        "rating": 3.3,
+        "review_count": 11,
+        "description": "The Pixelia Air 2 is a top-tier smartphone from Pixelia.",
+        "specifications": {
+            "processor": "Dimensity 9000",
+            "ram": "12GB",
+            "storage": "256GB",
+            "display": "6.5-inch LCD",
+            "battery": "4000mAh",
+            "camera": "Quad 108MP"
+        }
+    },
+    {
+        "product_id": "P1014",
+        "name": "PhoneMax Plus 9",
+        "brand": "PhoneMax",
+        "category": "Smartphones",
+        "price": 848.07,
+        "currency": "USD",
+        "rating": 3.3,
+        "review_count": 400,
+        "description": "The PhoneMax Plus 9 is a top-tier smartphone from PhoneMax.",
+        "specifications": {
+            "processor": "Snapdragon 8 Gen 1",
+            "ram": "12GB",
+            "storage": "512GB",
+            "display": "6.1-inch OLED",
+            "battery": "5000mAh",
+            "camera": "Triple 50MP"
+        }
+    },
+    {
+        "product_id": "P1015",
+        "name": "Connecto Pro 2",
+        "brand": "Connecto",
+        "category": "Smartphones",
+        "price": 1136.19,
+        "currency": "USD",
+        "rating": 4.7,
+        "review_count": 435,
+        "description": "The Connecto Pro 2 is a top-tier smartphone from Connecto.",
+        "specifications": {
+            "processor": "A15 Bionic",
+            "ram": "6GB",
+            "storage": "128GB",
+            "display": "6.1-inch OLED",
+            "battery": "5000mAh",
+            "camera": "Dual 12MP"
+        }
+    },
+    {
+        "product_id": "P1016",
+        "name": "PhoneMax Z 2",
+        "brand": "PhoneMax",
+        "category": "Smartphones",
+        "price": 1180.19,
+        "currency": "USD",
+        "rating": 4.0,
+        "review_count": 74,
+        "description": "The PhoneMax Z 2 is a top-tier smartphone from PhoneMax.",
+        "specifications": {
+            "processor": "Snapdragon 8 Gen 1",
+            "ram": "12GB",
+            "storage": "256GB",
+            "display": "6.5-inch LCD",
+            "battery": "4000mAh",
+            "camera": "Triple 50MP"
+        }
+    },
+    {
+        "product_id": "P1017",
+        "name": "Echo Lite 9",
+        "brand": "Echo",
+        "category": "Headphones",
+        "price": 314.34,
+        "currency": "USD",
+        "rating": 4.3,
+        "review_count": 375,
+        "description": "The Echo Lite 9 is a top-tier headphone from Echo.",
+        "specifications": {
+            "type": "In-ear",
+            "noise_cancellation": "Passive",
+            "battery_life": "40 hours",
+            "connectivity": "Wired",
+            "driver_size": "50mm",
+            "weight": "250g"
+        }
+    },
+    {
+        "product_id": "P1018",
+        "name": "Echo Ultra 4",
+        "brand": "Echo",
+        "category": "Headphones",
+        "price": 128.64,
+        "currency": "USD",
+        "rating": 3.6,
+        "review_count": 311,
+        "description": "The Echo Ultra 4 is a top-tier headphone from Echo.",
+        "specifications": {
+            "type": "On-ear",
+            "noise_cancellation": "Active",
+            "battery_life": "40 hours",
+            "connectivity": "Bluetooth 5.0",
+            "driver_size": "40mm",
+            "weight": "200g"
+        }
+    },
+    {
+        "product_id": "P1019",
+        "name": "Aural Lite 2",
+        "brand": "Aural",
+        "category": "Headphones",
+        "price": 366.9,
+        "currency": "USD",
+        "rating": 4.6,
+        "review_count": 46,
+        "description": "The Aural Lite 2 is a top-tier headphone from Aural.",
+        "specifications": {
+            "type": "On-ear",
+            "noise_cancellation": "Active",
+            "battery_life": "30 hours",
+            "connectivity": "Wired",
+            "driver_size": "50mm",
+            "weight": "200g"
+        }
+    },
+    {
+        "product_id": "P1020",
+        "name": "SoundWave Z 4",
+        "brand": "SoundWave",
+        "category": "Headphones",
+        "price": 324.62,
+        "currency": "USD",
+        "rating": 4.5,
+        "review_count": 107,
+        "description": "The SoundWave Z 4 is a top-tier headphone from SoundWave.",
+        "specifications": {
+            "type": "Over-ear",
+            "noise_cancellation": "Active",
+            "battery_life": "40 hours",
+            "connectivity": "Bluetooth 5.2",
+            "driver_size": "50mm",
+            "weight": "250g"
+        }
+    },
+    {
+        "product_id": "P1021",
+        "name": "Echo Z 1",
+        "brand": "Echo",
+        "category": "Headphones",
+        "price": 285.68,
+        "currency": "USD",
+        "rating": 4.9,
+        "review_count": 60,
+        "description": "The Echo Z 1 is a top-tier headphone from Echo.",
+        "specifications": {
+            "type": "Over-ear",
+            "noise_cancellation": "Passive",
+            "battery_life": "40 hours",
+            "connectivity": "Bluetooth 5.2",
+            "driver_size": "40mm",
+            "weight": "200g"
+        }
+    },
+    {
+        "product_id": "P1022",
+        "name": "SoundWave Lite 9",
+        "brand": "SoundWave",
+        "category": "Headphones",
+        "price": 207.01,
+        "currency": "USD",
+        "rating": 3.8,
+        "review_count": 152,
+        "description": "The SoundWave Lite 9 is a top-tier headphone from SoundWave.",
+        "specifications": {
+            "type": "In-ear",
+            "noise_cancellation": "Active",
+            "battery_life": "20 hours",
+            "connectivity": "Bluetooth 5.2",
+            "driver_size": "10mm",
+            "weight": "200g"
+        }
+    },
+    {
+        "product_id": "P1023",
+        "name": "Aural Pro 2",
+        "brand": "Aural",
+        "category": "Headphones",
+        "price": 374.23,
+        "currency": "USD",
+        "rating": 4.6,
+        "review_count": 95,
+        "description": "The Aural Pro 2 is a top-tier headphone from Aural.",
+        "specifications": {
+            "type": "In-ear",
+            "noise_cancellation": "Passive",
+            "battery_life": "30 hours",
+            "connectivity": "Bluetooth 5.0",
+            "driver_size": "50mm",
+            "weight": "200g"
+        }
+    },
+    {
+        "product_id": "P1024",
+        "name": "WristSync X 1",
+        "brand": "WristSync",
+        "category": "Smartwatches",
+        "price": 394.86,
+        "currency": "USD",
+        "rating": 3.5,
+        "review_count": 411,
+        "description": "The WristSync X 1 is a top-tier smartwatche from WristSync.",
+        "specifications": {
+            "display": "1.4-inch OLED",
+            "battery_life": "7 days",
+            "gps": "Connected",
+            "water_resistance": "IP67",
+            "sensors": "Heart rate",
+            "compatibility": "iOS only"
+        }
+    },
+    {
+        "product_id": "P1025",
+        "name": "Chrono Max 4",
+        "brand": "Chrono",
+        "category": "Smartwatches",
+        "price": 153.85,
+        "currency": "USD",
+        "rating": 4.8,
+        "review_count": 306,
+        "description": "The Chrono Max 4 is a top-tier smartwatche from Chrono.",
+        "specifications": {
+            "display": "1.3-inch LCD",
+            "battery_life": "14 days",
+            "gps": "Built-in",
+            "water_resistance": "IP67",
+            "sensors": "Heart rate, ECG",
+            "compatibility": "iOS, Android"
+        }
+    },
+    {
+        "product_id": "P1026",
+        "name": "TimeTech Z 9",
+        "brand": "TimeTech",
+        "category": "Smartwatches",
+        "price": 371.79,
+        "currency": "USD",
+        "rating": 4.0,
+        "review_count": 39,
+        "description": "The TimeTech Z 9 is a top-tier smartwatche from TimeTech.",
+        "specifications": {
+            "display": "1.3-inch LCD",
+            "battery_life": "2 days",
+            "gps": "Built-in",
+            "water_resistance": "IP68",
+            "sensors": "Heart rate",
+            "compatibility": "iOS, Android"
+        }
+    },
+    {
+        "product_id": "P1027",
+        "name": "WristSync X 2",
+        "brand": "WristSync",
+        "category": "Smartwatches",
+        "price": 379.56,
+        "currency": "USD",
+        "rating": 4.1,
+        "review_count": 306,
+        "description": "The WristSync X 2 is a top-tier smartwatche from WristSync.",
+        "specifications": {
+            "display": "1.3-inch LCD",
+            "battery_life": "2 days",
+            "gps": "Built-in",
+            "water_resistance": "5ATM",
+            "sensors": "Heart rate",
+            "compatibility": "iOS only"
+        }
+    },
+    {
+        "product_id": "P1028",
+        "name": "FitBand Plus 4",
+        "brand": "FitBand",
+        "category": "Smartwatches",
+        "price": 284.4,
+        "currency": "USD",
+        "rating": 3.6,
+        "review_count": 145,
+        "description": "The FitBand Plus 4 is a top-tier smartwatche from FitBand.",
+        "specifications": {
+            "display": "1.4-inch OLED",
+            "battery_life": "2 days",
+            "gps": "Connected",
+            "water_resistance": "5ATM",
+            "sensors": "Heart rate, ECG",
+            "compatibility": "iOS, Android"
+        }
+    },
+    {
+        "product_id": "P1029",
+        "name": "TimeTech Z 2",
+        "brand": "TimeTech",
+        "category": "Smartwatches",
+        "price": 75.64,
+        "currency": "USD",
+        "rating": 3.4,
+        "review_count": 145,
+        "description": "The TimeTech Z 2 is a top-tier smartwatche from TimeTech.",
+        "specifications": {
+            "display": "1.2-inch AMOLED",
+            "battery_life": "7 days",
+            "gps": "Built-in",
+            "water_resistance": "IP68",
+            "sensors": "Heart rate, ECG",
+            "compatibility": "Android only"
+        }
+    },
+    {
+        "product_id": "P1030",
+        "name": "WristSync Z 9",
+        "brand": "WristSync",
+        "category": "Smartwatches",
+        "price": 296.24,
+        "currency": "USD",
+        "rating": 4.2,
+        "review_count": 423,
+        "description": "The WristSync Z 9 is a top-tier smartwatche from WristSync.",
+        "specifications": {
+            "display": "1.3-inch LCD",
+            "battery_life": "14 days",
+            "gps": "Built-in",
+            "water_resistance": "IP67",
+            "sensors": "Heart rate",
+            "compatibility": "Android only"
+        }
+    },
+    {
+        "product_id": "P1031",
+        "name": "HP Pavilion 15",
+        "brand": "HP",
+        "category": "Laptops",
+        "price": 602.41,
+        "currency": "USD",
+        "rating": 4.2,
+        "review_count": 318,
+        "description": "The HP Pavilion 15 is a versatile everyday laptop with a Full HD display, ideal for students and professionals.",
+        "specifications": {
+            "processor": "Intel Core i5-1235U",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display": "15.6-inch FHD",
+            "battery": "10 hours",
+            "graphics": "Intel Iris Xe"
+        }
+    },
+    {
+        "product_id": "P1032",
+        "name": "HP Spectre x360 14",
+        "brand": "HP",
+        "category": "Laptops",
+        "price": 1144.58,
+        "currency": "USD",
+        "rating": 4.6,
+        "review_count": 205,
+        "description": "The HP Spectre x360 14 is a premium 2-in-1 convertible laptop with OLED display and excellent battery life.",
+        "specifications": {
+            "processor": "Intel Core i7-1255U",
+            "ram": "16GB",
+            "storage": "1TB SSD",
+            "display": "14-inch OLED Touch",
+            "battery": "17 hours",
+            "graphics": "Intel Iris Xe"
+        }
+    },
+    {
+        "product_id": "P1033",
+        "name": "HP Omen 16",
+        "brand": "HP",
+        "category": "Laptops",
+        "price": 1144.58,
+        "currency": "USD",
+        "rating": 4.3,
+        "review_count": 142,
+        "description": "The HP Omen 16 is a gaming laptop built for performance with a high-refresh-rate display and powerful GPU.",
+        "specifications": {
+            "processor": "AMD Ryzen 7 6800H",
+            "ram": "16GB",
+            "storage": "1TB SSD",
+            "display": "16.1-inch QHD 165Hz",
+            "battery": "8 hours",
+            "graphics": "RTX 3070"
+        }
+    },
+    {
+        "product_id": "P1034",
+        "name": "HP EliteBook 840 G9",
+        "brand": "HP",
+        "category": "Laptops",
+        "price": 843.37,
+        "currency": "USD",
+        "rating": 4.4,
+        "review_count": 97,
+        "description": "The HP EliteBook 840 G9 is a business-class laptop with enterprise security features and all-day battery life.",
+        "specifications": {
+            "processor": "Intel Core i7-1265U",
+            "ram": "32GB",
+            "storage": "1TB SSD",
+            "display": "14-inch FHD IPS",
+            "battery": "14 hours",
+            "graphics": "Intel Iris Xe"
+        }
+    },
+    {
+        "product_id": "P1035",
+        "name": "Dell Inspiron 15 3520",
+        "brand": "Dell",
+        "category": "Laptops",
+        "price": 481.93,
+        "currency": "USD",
+        "rating": 4.1,
+        "review_count": 512,
+        "description": "The Dell Inspiron 15 is a budget-friendly laptop for everyday computing with a solid performance chip.",
+        "specifications": {
+            "processor": "Intel Core i5-1235U",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display": "15.6-inch FHD",
+            "battery": "9 hours",
+            "graphics": "Intel UHD"
+        }
+    },
+    {
+        "product_id": "P1036",
+        "name": "Dell XPS 15",
+        "brand": "Dell",
+        "category": "Laptops",
+        "price": 1204.82,
+        "currency": "USD",
+        "rating": 4.7,
+        "review_count": 389,
+        "description": "The Dell XPS 15 is a premium laptop with a stunning OLED display and powerful specifications for creative professionals.",
+        "specifications": {
+            "processor": "Intel Core i7-12700H",
+            "ram": "32GB",
+            "storage": "1TB SSD",
+            "display": "15.6-inch OLED 3.5K",
+            "battery": "12 hours",
+            "graphics": "RTX 3050 Ti"
+        }
+    },
+    {
+        "product_id": "P1037",
+        "name": "Dell G15 Gaming Laptop",
+        "brand": "Dell",
+        "category": "Laptops",
+        "price": 843.37,
+        "currency": "USD",
+        "rating": 4.2,
+        "review_count": 276,
+        "description": "The Dell G15 is a gaming-focused laptop with great thermal performance and a high-refresh display.",
+        "specifications": {
+            "processor": "AMD Ryzen 7 6800H",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display": "15.6-inch FHD 165Hz",
+            "battery": "7 hours",
+            "graphics": "RTX 3060"
+        }
+    },
+    {
+        "product_id": "P1038",
+        "name": "Dell Latitude 5540",
+        "brand": "Dell",
+        "category": "Laptops",
+        "price": 963.86,
+        "currency": "USD",
+        "rating": 4.3,
+        "review_count": 88,
+        "description": "The Dell Latitude 5540 is a business laptop with strong security features and reliable performance for enterprise users.",
+        "specifications": {
+            "processor": "Intel Core i7-1365U",
+            "ram": "32GB",
+            "storage": "1TB SSD",
+            "display": "15.6-inch FHD",
+            "battery": "12 hours",
+            "graphics": "Intel Iris Xe"
+        }
+    },
+    {
+        "product_id": "P1039",
+        "name": "Lenovo IdeaPad Slim 5",
+        "brand": "Lenovo",
+        "category": "Laptops",
+        "price": 542.17,
+        "currency": "USD",
+        "rating": 4.3,
+        "review_count": 421,
+        "description": "The Lenovo IdeaPad Slim 5 is a lightweight everyday laptop with excellent battery life and a vivid display.",
+        "specifications": {
+            "processor": "AMD Ryzen 5 7530U",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display": "15.6-inch FHD IPS",
+            "battery": "12 hours",
+            "graphics": "AMD Radeon"
+        }
+    },
+    {
+        "product_id": "P1040",
+        "name": "Lenovo ThinkPad X1 Carbon Gen 11",
+        "brand": "Lenovo",
+        "category": "Laptops",
+        "price": 1385.54,
+        "currency": "USD",
+        "rating": 4.8,
+        "review_count": 183,
+        "description": "The Lenovo ThinkPad X1 Carbon is the gold standard for business laptops \u2014 ultra-light, durable and powerful.",
+        "specifications": {
+            "processor": "Intel Core i7-1365U",
+            "ram": "32GB",
+            "storage": "1TB SSD",
+            "display": "14-inch 2.8K OLED",
+            "battery": "15 hours",
+            "graphics": "Intel Iris Xe"
+        }
+    },
+    {
+        "product_id": "P1041",
+        "name": "Lenovo Legion 5 Pro",
+        "brand": "Lenovo",
+        "category": "Laptops",
+        "price": 1024.1,
+        "currency": "USD",
+        "rating": 4.5,
+        "review_count": 334,
+        "description": "The Lenovo Legion 5 Pro is a gaming powerhouse with a 165Hz QHD display and top-tier GPU performance.",
+        "specifications": {
+            "processor": "AMD Ryzen 7 7745HX",
+            "ram": "16GB",
+            "storage": "1TB SSD",
+            "display": "16-inch QHD 165Hz",
+            "battery": "8 hours",
+            "graphics": "RTX 4060"
+        }
+    },
+    {
+        "product_id": "P1042",
+        "name": "Lenovo IdeaPad 3 15",
+        "brand": "Lenovo",
+        "category": "Laptops",
+        "price": 421.69,
+        "currency": "USD",
+        "rating": 4.0,
+        "review_count": 657,
+        "description": "The Lenovo IdeaPad 3 is an affordable entry-level laptop suited for students and light office tasks.",
+        "specifications": {
+            "processor": "Intel Core i3-1215U",
+            "ram": "8GB",
+            "storage": "256GB SSD",
+            "display": "15.6-inch FHD",
+            "battery": "8 hours",
+            "graphics": "Intel UHD"
+        }
+    }
+]

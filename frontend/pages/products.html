@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Products — Multi-Agent E-Commerce</title>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <div id="nav-container"></div>
+  <div class="page">
+    <div class="section-header">
+      <h1>🔎 Find Products</h1>
+      <p>Our Product Search Agent finds the best matches for your requirements.</p>
+    </div>
+
+    <div id="context-bar-wrap"></div>
+
+    <!-- Search Control -->
+    <div class="card" style="margin-bottom:24px" id="search-card">
+      <div id="reqs-summary"></div>
+      <div style="margin-top:16px;display:flex;gap:12px;flex-wrap:wrap">
+        <button id="searchBtn" class="btn btn-primary btn-lg" onclick="searchProducts()">
+          🔎 Search Products
+        </button>
+        <button class="btn btn-secondary" onclick="window.location.href='/pages/requirements.html'">
+          ← Edit Requirements
+        </button>
+      </div>
+    </div>
+
+    <!-- Products Area -->
+    <div id="products-area"></div>
+
+    <!-- Compare Selection Bar (shown when products found) -->
+    <div id="compare-bar" style="display:none" class="card" style="margin-top:24px">
+      <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px">
+        <div>
+          <div style="font-weight:700">Select products to compare</div>
+          <div class="form-sublabel" id="compare-count">0 selected</div>
+        </div>
+        <button class="btn btn-primary" id="goCompareBtn" onclick="goToCompare()" disabled>
+          ⚖️ Compare Selected
+        </button>
+      </div>
+      <div class="checkbox-list" style="margin-top:16px" id="compare-checkboxes"></div>
+    </div>
+
+    <!-- Page Nav -->
+    <div class="page-nav">
+      <button class="btn btn-ghost" onclick="window.location.href='/pages/requirements.html'">← Requirements</button>
+      <button class="btn btn-primary" onclick="window.location.href='/pages/reviews.html'">
+        View Reviews →
+      </button>
+    </div>
+  </div>
+
+  <script src="/js/app.js"></script>
+  <script src="/js/products.js"></script>
+</body>
+</html>

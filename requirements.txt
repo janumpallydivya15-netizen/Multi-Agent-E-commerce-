@@ -1,0 +1,20 @@
+# Core Web Application & UI (legacy Streamlit dev UI)
+streamlit>=1.30.0
+pandas>=2.0.0
+
+# New FastAPI Backend
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+
+# Multi-Agent Workflow & Orchestration
+langgraph>=0.2.0
+langchain-core>=0.3.0
+
+# LLM Integration & Data Modeling
+google-genai>=0.1.1
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+
+# Testing & Verification
+pytest>=8.0.0

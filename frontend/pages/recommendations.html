@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recommendations — Multi-Agent E-Commerce</title>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <div id="nav-container"></div>
+  <div class="page-sm">
+    <div class="section-header">
+      <h1>🎯 AI Shopping Recommendations</h1>
+      <p>Personalised recommendations based on your requirements, reviews, and price analysis.</p>
+    </div>
+
+    <div id="context-bar-wrap"></div>
+
+    <!-- Trigger -->
+    <div class="card" style="margin-bottom:24px" id="trigger-card">
+      <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:center">
+        <button class="btn btn-primary btn-lg" id="recBtn" onclick="loadRecommendations()">
+          🎯 Get Recommendations
+        </button>
+        <button class="btn btn-ghost" onclick="window.location.href='/pages/compare.html'">← Compare</button>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div id="rec-area"></div>
+
+    <!-- Page Nav -->
+    <div class="page-nav">
+      <button class="btn btn-ghost" onclick="window.location.href='/pages/compare.html'">← Compare</button>
+      <button class="btn btn-secondary" onclick="window.location.href='/pages/workflow.html'">
+        🤖 See Full AI Workflow →
+      </button>
+    </div>
+  </div>
+
+  <script src="/js/app.js"></script>
+  <script src="/js/recommendations.js"></script>
+</body>
+</html>

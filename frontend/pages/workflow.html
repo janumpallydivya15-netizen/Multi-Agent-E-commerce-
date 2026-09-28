@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Workflow — Multi-Agent E-Commerce</title>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <div id="nav-container"></div>
+  <div class="page-sm">
+    <div class="section-header">
+      <h1>🤖 Multi-Agent AI Workflow</h1>
+      <p>Watch all five AI agents collaborate in real-time through the LangGraph orchestration workflow.</p>
+    </div>
+
+    <!-- Input -->
+    <div class="card" style="margin-bottom:24px">
+      <div class="form-group">
+        <label class="form-label">Shopping Request</label>
+        <textarea id="workflowInput" class="form-input" style="min-height:90px"
+          placeholder="I want a smartphone under ₹100,000 with good battery life"></textarea>
+      </div>
+      <div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap">
+        <button id="runBtn" class="btn btn-primary btn-lg" onclick="runWorkflow()">
+          🤖 Run Full Workflow
+        </button>
+        <button class="btn btn-ghost" onclick="loadFromSession()">Use Current Session</button>
+      </div>
+    </div>
+
+    <!-- Workflow Progress -->
+    <div id="workflow-steps" style="display:none">
+      <div class="section-title" style="margin-bottom:12px">Workflow Progress</div>
+      <div class="workflow-steps" id="steps-container"></div>
+    </div>
+
+    <!-- Results Summary -->
+    <div id="workflow-result" style="margin-top:24px"></div>
+
+    <!-- Page Nav -->
+    <div class="page-nav">
+      <button class="btn btn-ghost" onclick="window.location.href='/pages/recommendations.html'">← Recommendations</button>
+      <button class="btn btn-secondary" onclick="Session.clearAll();window.location.href='/'">🔄 New Search</button>
+    </div>
+  </div>
+
+  <script src="/js/app.js"></script>
+  <script src="/js/workflow.js"></script>
+</body>
+</html>

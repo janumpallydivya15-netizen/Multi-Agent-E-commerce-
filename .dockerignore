@@ -1,0 +1,30 @@
+# Git & CI/CD
+.git
+.gitignore
+.github
+
+# Secrets & Environment Files
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Testing & Development Files
+tests/
+scratch/
+*.md
+!README.md
